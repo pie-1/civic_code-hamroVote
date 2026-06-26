@@ -1,0 +1,140 @@
+{
+  "app": {
+    "title": "HamroVote"
+  },
+  "nav": {
+    "dashboard": "Dashboard",
+    "vote": "Vote",
+    "profile": "Profile",
+    "results": "Results",
+    "voterId": "Voter ID",
+    "login": "Login",
+    "register": "Register",
+    "logout": "Logout",
+    "connectWallet": "Connect Wallet",
+    "walletConnected": "Connected"
+  },
+  "hero": {
+    "badge": "Nepal's First Coercion‑Resistant Voting Platform",
+    "title": "Your Vote,",
+    "titleHighlight": " Your Voice",
+    "subtitle": "Anywhere in the World",
+    "description": "Secure, transparent voting for 7.5+ million Non‑Resident Nepalis.",
+    "cta": "Get Started",
+    "ctaDashboard": "Go to Dashboard",
+    "ctaWallet": "Connect Wallet",
+    "statsNRN": "NRNs Worldwide",
+    "statsCountries": "Countries",
+    "statsTransparent": "Transparent"
+  },
+  "features": {
+    "title": "Features",
+    "heading": "Why Choose",
+    "subheading": "Built with cutting-edge technology for secure, private voting",
+    "biometric": "Biometric Verification",
+    "biometricDesc": "One person, one vote — no impersonation.",
+    "coercion": "Coercion Protection",
+    "coercionDesc": "Live camera prevents forced voting.",
+    "global": "Vote from Anywhere",
+    "globalDesc": "Vote from any country with internet.",
+    "tracker": "Party Tracker",
+    "trackerDesc": "See what leaders are actually doing.",
+    "nrn": "NRN Empowerment",
+    "nrnDesc": "7.5M+ Nepalis get a voice.",
+    "blockchain": "Blockchain Transparency",
+    "blockchainDesc": "Votes are tamper-proof and verifiable."
+  },
+  "howItWorks": {
+    "heading": "How It Works",
+    "highlight": "4 Simple Steps",
+    "subheading": "Cast your vote securely from anywhere",
+    "step1": "Register",
+    "step1Desc": "Create your account",
+    "step2": "Verify Identity",
+    "step2Desc": "Face verification",
+    "step3": "Cast Vote",
+    "step3Desc": "Live camera protection",
+    "step4": "Track Results",
+    "step4Desc": "Real-time blockchain results"
+  },
+  "cta": {
+    "title": "Ready to Make Your Voice Heard?",
+    "subtitle": "Join thousands of NRNs voting securely worldwide.",
+    "button": "Get Started"
+  },
+  "footer": {
+    "description": "Secure blockchain voting for Nepalis abroad.",
+    "quickLinks": "Quick Links",
+    "features": "Features",
+    "howItWorks": "How It Works",
+    "faq": "FAQ",
+    "support": "Support",
+    "helpCenter": "Help Center",
+    "privacy": "Privacy Policy",
+    "terms": "Terms of Service",
+    "connect": "Connect",
+    "rights": "All rights reserved."
+  },
+  "dashboard": {
+    "welcome": "Welcome, {{name}}!",
+    "subtitle": "Your voting dashboard",
+    "parties": "Political Parties",
+    "projects": "Projects Tracked",
+    "promises": "Promises Fulfilled",
+    "walletStatus": "Wallet Status",
+    "partyPerformance": "Party Performance",
+    "projectsTitle": "Major Projects",
+    "noProjects": "No projects tracked yet"
+  },
+  "party": {
+    "billsPassed": "Bills Passed",
+    "budgetUsed": "Budget Used",
+    "projectsDone": "Projects Done",
+    "promisesKept": "Promises Kept",
+    "budgetUtilization": "Budget Utilization"
+  },
+  "vote": {
+    "title": "Cast Your Vote",
+    "voter": "Voter",
+    "constituency": "Constituency",
+    "district": "District",
+    "selectCandidate": "Select Your Candidate",
+    "noCandidates": "No candidates found",
+    "selected": "Selected",
+    "castVote": "Cast Vote",
+    "connectWallet": "Connect Wallet to Vote",
+    "thankYou": "Thank You for Voting!",
+    "voteRecorded": "Your vote has been recorded securely on the blockchain."
+  },
+  "results": {
+    "title": "Election Results",
+    "totalVotes": "Total Votes",
+    "winner": "Winner",
+    "winningParty": "Winning Party",
+    "candidates": "Candidates",
+    "voters": "Voters List",
+    "admin": "Admin View",
+    "refresh": "Refresh",
+    "visible": "Results are visible",
+    "hidden": "Results are hidden",
+    "notAvailable": "Results Not Yet Available",
+    "checkBack": "Results will be visible after the voting period ends.",
+    "loginRequired": "Login Required",
+    "loginToView": "Please login to view election results"
+  },
+  "profile": {
+    "title": "My Profile",
+    "info": "Profile Information",
+    "name": "Name",
+    "email": "Email",
+    "nrnId": "NRN ID",
+    "wallet": "Wallet",
+    "verified": "Verified",
+    "voted": "Voted",
+    "edit": "Edit Profile",
+    "save": "Save Changes",
+    "verification": "Voter Card Verification",
+    "verifyButton": "Verify Voter Card to Vote",
+    "verifyDesc": "Upload your Voter Card and verify your face to start voting"
+  }
+}
